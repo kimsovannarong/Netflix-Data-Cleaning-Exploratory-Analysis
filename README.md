@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is an end-to-end data manipulation and exploratory analysis performed on the **Netflix Titles Dataset** using **Microsoft Excel**. 
 
-The main objective of this project was to apply practical Excel capabilities—including data cleaning, text formatting, dynamic formulas (`SUMIFS`, `UNIQUE`), and multidimensional **Pivot Tables**—to answer 5 specific analytical queries regarding Netflix's catalog.
+The main objective of this project was to apply practical Excel capabilities—including data cleaning, text formatting, dynamic formulas (`SUMIFS`, `UNIQUE`, `XLOOKUP` ), and multidimensional **Pivot Tables**—to answer 5 specific analytical queries regarding Netflix's catalog.
 
 ---
 
