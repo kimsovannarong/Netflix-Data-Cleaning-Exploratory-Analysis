@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Analysis & Excel Exercises
+# 🎬 Netflix Data Analysis & Exploratory Analysis
 
 ## 📌 Project Overview
 This project is an end-to-end data manipulation and exploratory analysis performed on the **Netflix Titles Dataset** using **Microsoft Excel**. 
